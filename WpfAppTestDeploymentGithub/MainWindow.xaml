@@ -42,7 +42,7 @@
                 <Button x:Name="btnDownloadSetupScript"
                     Width="200"
                     BorderThickness="0"
-                    Content="Download Db Script"
+                    Content="Download Thobani"
                     Foreground="White"
                     FontSize="12"
                     FontFamily="Montserrat"
